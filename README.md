@@ -1,3 +1,3 @@
 # Projetos_faculdade
 
-Projetos, atividades e aulas da faculdade 
+Esse repositorio e destinado a projetos e feições dentro da fauldade, 
